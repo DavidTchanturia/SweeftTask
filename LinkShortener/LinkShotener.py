@@ -58,5 +58,3 @@ elif premium_or_not == 'y':
 
 conn.close()
 
-
-
